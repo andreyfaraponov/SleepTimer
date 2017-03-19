@@ -1,0 +1,15 @@
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer\SleepTimer\bin\Debug\SleepTimer.exe.config
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer\SleepTimer\bin\Debug\SleepTimer.exe
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer\SleepTimer\bin\Debug\SleepTimer.pdb
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer\SleepTimer\obj\Debug\SleepTimer.csprojResolveAssemblyReference.cache
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer\SleepTimer\obj\Debug\SleepTimer.Form1.resources
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer\SleepTimer\obj\Debug\SleepTimer.Properties.Resources.resources
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer\SleepTimer\obj\Debug\SleepTimer.csproj.GenerateResource.Cache
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer\SleepTimer\obj\Debug\SleepTimer.exe
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer\SleepTimer\obj\Debug\SleepTimer.pdb
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer\SleepTimer\bin\Debug\en-150\SleepTimer.resources.dll
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer\SleepTimer\obj\Debug\SleepTimer.Form1.en-150.resources
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer\SleepTimer\obj\Debug\en-150\SleepTimer.resources.dll
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer(Ended)\SleepTimer\bin\Debug\SleepTimer.exe.config
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer(Ended)\SleepTimer\obj\Debug\SleepTimer.exe
+D:\Programming Studying\C# Projects From ITVDN Lessons\SleepTimer(Ended)\SleepTimer\obj\Debug\SleepTimer.pdb
